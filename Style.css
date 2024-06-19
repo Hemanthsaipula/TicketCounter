@@ -1,0 +1,54 @@
+* {
+    background-color : rgb(249, 250, 249);
+}
+
+h1{
+    color :rgb(150, 15, 15);
+    background-color: rgba(214, 220, 42, 1);
+    text-align: center;
+    text-decoration:black wavy underline;
+    font-weight: 900;
+    line-height: 50px;
+    text-transform: uppercase;
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
+    width: 500px;
+    margin-left: 500px;
+    display: inline-block;
+    
+}
+
+h3{
+    color : rgb(14, 14, 120);
+    text-transform: uppercase;
+    height: 20px;
+    width: 300px;
+    border-color: rgb(128, 22, 22);
+    border-style: solid;
+    border-width: 3px;
+    background-color: rgb(214, 220, 42);
+    text-align: center;
+    border-radius: 10px;
+}
+label {
+    color :rgb(19, 4, 4);
+    background-color: rgba(233, 131, 131, 0.6);
+    
+}
+body{
+    background-color: rgb(254, 254, 255);
+    background-image: url("train.jpg");
+    background-size: contain;
+}
+a{
+    color: rgb(150, 36, 150);
+    text-decoration: black underline;
+    font-weight: 600;
+}
+
+.submit1{
+    font-family:fantasy;
+
+}
+
